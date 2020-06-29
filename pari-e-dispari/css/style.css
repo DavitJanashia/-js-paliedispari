@@ -17,4 +17,40 @@ body, html {
   width: 200px;
   border: 1px solid grey;
   border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+#n-tuo{
+  height: 25px;
+  width: 200px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+#n-cpu{
+  height: 25px;
+  width: 200px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+#somma{
+  height: 25px;
+  width: 200px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
 }
